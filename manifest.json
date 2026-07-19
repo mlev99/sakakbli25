@@ -1,0 +1,26 @@
+{
+  "name": "KBLI 2025 AI Search - Saka Omni",
+  "short_name": "KBLI Search",
+  "description": "Pencarian kode KBLI 2025 dengan bantuan AI Agent — cukup ketik, sisanya otomatis.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f6f9",
+  "theme_color": "#0d6efd",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/mlev99/sakahybrid/main/launchericon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/mlev99/sakahybrid/main/launchericon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
